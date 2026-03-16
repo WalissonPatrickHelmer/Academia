@@ -51,7 +51,9 @@ Responsividade com Flexbox e Grid
 ✅ Botão flutuante do WhatsApp para contato direto
 ✅ Design moderno estilo fitness/gym
 
-📂 Estrutura do Projeto
+## 📂 Estrutura do Projeto
+
+```
 CrossArena/
 │
 ├── index.html
@@ -61,3 +63,4 @@ CrossArena/
 ├── treino_aberto.jpg
 ├── treino_livre.jpg
 └── Como-mensurar-os-resultados-da-academia.jpg
+```
