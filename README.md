@@ -1,5 +1,7 @@
 🏋️ CrossArena — CrossFit Studio Website
 
+link de acesso: https://walissonpatrickhelmer.github.io/Academia/
+
 Projeto de página web institucional desenvolvido para uma academia fictícia de CrossFit, com foco em design moderno, responsividade e experiência do usuário.
 
 Este projeto simula um site real de academia, apresentando programas de treino, identidade visual forte e integração direta com contato via WhatsApp.
